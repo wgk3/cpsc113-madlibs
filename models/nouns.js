@@ -1,9 +1,9 @@
 var lodash = require('lodash');
 
 var nouns = [
-    'man',
-    'bear',
-    'pig'
+    ‘The Big Lebowski’,
+    ‘lemon’,
+    ‘Tom ‘Brady
 ];
 
 module.exports = {};
